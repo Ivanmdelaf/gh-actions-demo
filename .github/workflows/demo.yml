@@ -8,4 +8,6 @@ jobs:
     steps:
       - name: saludar
         run: echo "Hola, mundo!"
+      - name: despedirse
+        run: echo "Adiós, mundo!"
 
